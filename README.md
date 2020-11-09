@@ -10,7 +10,7 @@ This vulnerability happen when upnpd receive and process specific message and co
 
 ## Poc
 
-refer to this video: [pov.mkv](https://github.com/cpeggg/Netgear-upnpd-poc/)
+refer to this video: [pov.mkv](./pov.mkv)
 
 ## Timeline
 
