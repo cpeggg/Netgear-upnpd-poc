@@ -15,3 +15,7 @@ refer to this video: [pov.mkv](./pov.mkv)
 ## Timeline
 
 2020.11.9 report to cve and netgear
+
+## Acknowlegement
+
+Credit to [@minghangshen](https://github.com/minghangshen), [@leonW7](https://github.com/leonW7) and [@cpegg](https://github.com/cpeggg)
