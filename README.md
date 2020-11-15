@@ -22,4 +22,4 @@ CVE-2020-28373
 
 ## Acknowlegement
 
-Credit to [@minghangshen](https://github.com/minghangshen), [@leonW7](https://github.com/leonW7) and [@cpegg](https://github.com/cpeggg)
+Credit to [@peanuts](https://github.com/peanuts62), [@leonW7](https://github.com/leonW7) and [@cpegg](https://github.com/cpeggg)
