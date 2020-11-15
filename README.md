@@ -19,7 +19,3 @@ Refer to this video: [pov.mkv](./pov.mkv)
 ## CVE ID
 
 CVE-2020-28373
-
-## Acknowlegement
-
-Credit to [@minghangshen](https://github.com/minghangshen), [@leonW7](https://github.com/leonW7) and [@cpegg](https://github.com/cpeggg)
