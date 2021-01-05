@@ -22,4 +22,4 @@ CVE-2020-28373
 
 ## Acknowledgment 
 
-Credit to [@peanuts](https://github.com/peanuts62), [@leonW7](https://github.com/leonW7) and [@cpegg](https://github.com/cpeggg)
+Credit to [@peanuts](https://github.com/peanuts62), [@leonW7](https://github.com/leonW7) and [@cpegg](https://github.com/cpeggg) from Technology Research Institute of Legendsec at Qi'anxin Group.
